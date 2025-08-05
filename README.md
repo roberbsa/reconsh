@@ -1,4 +1,4 @@
-# RECONME
+# RECON
 
 Script interativo em Bash para automação de reconhecimento (recon) ofensivo. Ele integra diversas ferramentas amplamente usadas no Bug Bounty e Pentest em um único menu simples, com saída consolidada.
 
